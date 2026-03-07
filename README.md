@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 ## Sorting
 |  |
