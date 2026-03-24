@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,4 +75,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
