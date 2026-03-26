@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
@@ -31,6 +32,7 @@
 | [0027-remove-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -42,6 +44,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
