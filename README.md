@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
