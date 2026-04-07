@@ -25,6 +25,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -118,4 +120,5 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
