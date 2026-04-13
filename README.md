@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
