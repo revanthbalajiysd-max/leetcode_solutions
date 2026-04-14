@@ -72,6 +72,7 @@
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
