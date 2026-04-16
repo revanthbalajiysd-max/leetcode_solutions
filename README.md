@@ -72,6 +72,7 @@
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2235-add-two-integers) |
 ## Sorting
@@ -131,6 +132,7 @@
 | [0029-divide-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
