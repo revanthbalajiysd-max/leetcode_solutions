@@ -13,6 +13,7 @@
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0414-third-maximum-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2733-neither-minimum-nor-maximum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2733-neither-minimum-nor-maximum) |
