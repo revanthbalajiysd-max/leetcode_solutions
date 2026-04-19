@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Recursion
@@ -117,6 +119,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
