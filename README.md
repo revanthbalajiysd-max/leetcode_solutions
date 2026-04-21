@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Recursion
