@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -111,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
