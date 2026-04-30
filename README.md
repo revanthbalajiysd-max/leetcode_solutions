@@ -12,6 +12,7 @@
 | [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
 ## Backtracking
 |  |
 | ------- |
