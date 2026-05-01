@@ -15,6 +15,7 @@
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -98,6 +99,7 @@
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -164,6 +166,7 @@
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
