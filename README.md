@@ -15,6 +15,7 @@
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -36,6 +37,7 @@
 | [0118-pascals-triangle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -98,6 +100,7 @@
 | [0015-3sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
