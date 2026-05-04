@@ -12,6 +12,7 @@
 | [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
@@ -87,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
@@ -185,4 +188,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
