@@ -63,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
