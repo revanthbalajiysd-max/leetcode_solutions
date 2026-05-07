@@ -51,6 +51,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Trie
 |  |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
