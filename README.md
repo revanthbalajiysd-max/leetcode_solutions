@@ -49,6 +49,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -205,4 +206,8 @@
 | [0061-rotate-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
