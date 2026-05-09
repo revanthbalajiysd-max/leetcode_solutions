@@ -14,6 +14,7 @@
 | [0058-length-of-last-word](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
@@ -33,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -212,5 +215,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
