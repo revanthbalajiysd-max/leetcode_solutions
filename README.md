@@ -127,6 +127,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -135,6 +136,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,4 +226,5 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
