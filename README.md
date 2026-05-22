@@ -11,6 +11,7 @@
 | [0020-valid-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0071-simplify-path) |
@@ -35,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0079-word-search) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0015-3sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
@@ -191,6 +194,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
