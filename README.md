@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
