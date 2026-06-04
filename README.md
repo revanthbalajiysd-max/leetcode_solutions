@@ -161,6 +161,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -235,6 +236,7 @@
 | [0061-rotate-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
