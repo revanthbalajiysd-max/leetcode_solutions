@@ -55,6 +55,7 @@
 | [0283-move-zeroes](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1470-shuffle-the-array) |
