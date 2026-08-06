@@ -65,6 +65,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Trie
 |  |
@@ -181,6 +182,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0242-valid-anagram](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
