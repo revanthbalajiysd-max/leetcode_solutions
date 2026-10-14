@@ -50,6 +50,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -101,6 +102,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0704-binary-search) |
@@ -185,6 +187,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -193,6 +196,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
