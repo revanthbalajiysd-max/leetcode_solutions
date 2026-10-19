@@ -68,6 +68,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -174,6 +175,7 @@
 | [0119-pascals-triangle-ii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/revanthbalajiysd-max/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
